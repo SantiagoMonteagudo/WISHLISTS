@@ -41,7 +41,7 @@ https://www.amazon.fr/hz/wishlist/ls/2GFPQAJ5TTWJU?ref_=wl_share
 
 !!! Attention: cette liste contient les LEGOS que JE POSSEDE DEJA
 
-Par conséquent, on peut considérer que je recherche n'importe quel LEGO Star Wars, Marvel, DC, City ou Ideas qui NE SOIT PAS dans la liste suivante:
+Par conséquent, on peut considérer que je recherche n'importe quel LEGO Star Wars, Lord of the Rings, Indiana Jones, Marvel, DC, City ou Ideas qui NE SOIT PAS dans la liste suivante:
 https://brickset.com/sets/ownedby-BillPlaymo
 
 # JEUX VIDEOS :
