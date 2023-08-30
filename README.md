@@ -3,6 +3,19 @@
 
 # BOUQUINS:
 
+Les listes suivantes sont, par défaut, pas en ordre alphabétique... Si on veut savoir si un livre particulier est dans la wishlist, on peut utiliser la petite barre de recherche (titre ou auteur):
+
+![image](https://github.com/SantiagoMonteagudo/WISHLISTS/assets/66490552/723a63ef-088b-4cc7-b1dd-2611327c1553)
+
+Cliquer le bouton "view" du bouquin en question:
+
+![image](https://github.com/SantiagoMonteagudo/WISHLISTS/assets/66490552/af00f12e-97c3-4f4c-8843-a134da6c9eb4)
+
+Si le mot "wishlist" apparaît dans les "bookshelves", alors c'est un bouquin que je recherche! sinon, je l'ai déjà :)
+
+![image](https://github.com/SantiagoMonteagudo/WISHLISTS/assets/66490552/f5a84b3a-5e2f-45d0-9a44-65c5aea70d25)
+
+
 Libros en ESPANOL:
 https://www.goodreads.com/review/list/141214957-santiago-mg?order=a&shelf=wishlist-esp&sort=author
 
