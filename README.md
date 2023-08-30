@@ -4,30 +4,30 @@
 # BOUQUINS:
 
 Libros en ESPANOL:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=esp%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?order=a&shelf=wishlist-esp&sort=author
 
 Books in ENGLISH:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=eng%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?order=d&shelf=wishlist-eng&sort=author
 
 Livres en FRANCAIS:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=fr%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?order=d&shelf=wishlist-fr&sort=author
 
 Livres en Espanol ou Anglais ou Francais:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=other-lang%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=wishlist-fr-or-eng-or-esp&sort=author
 
 Livres d'histoire:
-https://www.goodreads.com/review/list/141214957?shelf=history%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=wishlist-histoire&sort=author
 
 # ROMANS GRAPHIQUES:
 
 Comics in ENGLISH:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=eng%2Cgraphic-novel%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?order=a&shelf=wishlist-comics&sort=author
 
 Historietas en ESPANOL;
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=esp%2Cgraphic-novel%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=wishlist-historieta&sort=author
 
 BDs en FRANCAIS:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=fr%2Cgraphic-novel%2Cto-read&sort=num_ratings
+https://www.goodreads.com/review/list/141214957-santiago-mg?order=d&shelf=wishlist-bd&sort=author
 
 # JEUX DE PLATEAU:
 
