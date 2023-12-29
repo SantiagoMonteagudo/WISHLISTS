@@ -3,44 +3,31 @@
 
 # BOUQUINS:
 
-Les listes suivantes sont, par défaut, pas en ordre alphabétique... Si on veut savoir si un livre particulier est dans la wishlist, on peut utiliser la petite barre de recherche (titre ou auteur):
-
-![image](https://github.com/SantiagoMonteagudo/WISHLISTS/assets/66490552/723a63ef-088b-4cc7-b1dd-2611327c1553)
-
-Cliquer le bouton "view" du bouquin en question:
-
-![image](https://github.com/SantiagoMonteagudo/WISHLISTS/assets/66490552/af00f12e-97c3-4f4c-8843-a134da6c9eb4)
-
-Si le mot "wishlist" apparaît dans les "bookshelves", alors c'est un bouquin que je recherche! sinon, je l'ai déjà :)
-
-![image](https://github.com/SantiagoMonteagudo/WISHLISTS/assets/66490552/f5a84b3a-5e2f-45d0-9a44-65c5aea70d25)
-
-
 Libros en ESPANOL:
-https://www.goodreads.com/review/list/141214957-santiago-mg?order=a&shelf=wishlist-esp&sort=author
+https://docs.google.com/spreadsheets/d/1q0iYhrAnbRUlaG5bHIXa0c7JucbekvWCp-KryjT1Hzs/edit?usp=sharing
 
 Books in ENGLISH:
-https://www.goodreads.com/review/list/141214957-santiago-mg?order=d&shelf=wishlist-eng&sort=author
+https://docs.google.com/spreadsheets/d/1-23OzopU7_NzFcVnS2lFb7o1mU-7ztxefwrwcp3Ri2Q/edit?usp=sharing
 
 Livres en FRANCAIS:
-https://www.goodreads.com/review/list/141214957-santiago-mg?order=d&shelf=wishlist-fr&sort=author
+https://docs.google.com/spreadsheets/d/1R2btDpldlmJhWTFNFrNuoEPBX3QtXSljmwZM_UEhUWc/edit?usp=sharing
 
 Livres en Espanol ou Anglais ou Francais:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=wishlist-fr-or-eng-or-esp&sort=author
+https://docs.google.com/spreadsheets/d/1gaBPzEascNj-1fJCtOomZtrA9pPERJ6kVMfkSJQfyB8/edit?usp=sharing
 
 Livres d'histoire:
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=wishlist-histoire&sort=author
+https://docs.google.com/spreadsheets/d/17XlCBqqINrPQX466tqEaOkm1QnRs8R2gTwule2IaBec/edit?usp=sharing
 
 # ROMANS GRAPHIQUES:
 
 Comics in ENGLISH:
-https://www.goodreads.com/review/list/141214957-santiago-mg?order=a&shelf=wishlist-comics&sort=author
+https://docs.google.com/spreadsheets/d/1bKYTb95xpW2n_c_VIj8Lb0UjglIZGYhzdoALtsAC5sw/edit?usp=sharing
 
 Historietas en ESPANOL;
-https://www.goodreads.com/review/list/141214957-santiago-mg?shelf=wishlist-historieta&sort=author
+https://docs.google.com/spreadsheets/d/131Tbjq8oFi58iHZ9V-tflsskgvzO66f_1iFBKbhZ1MI/edit?usp=sharing
 
 BDs en FRANCAIS:
-https://www.goodreads.com/review/list/141214957-santiago-mg?order=d&shelf=wishlist-bd&sort=author
+https://docs.google.com/spreadsheets/d/1uThrmdTXbokGbSLwyfDRgVM4uAlrSN2UcB46BWJo0tg/edit?usp=sharing
 
 # JEUX DE PLATEAU:
 
