@@ -37,6 +37,14 @@ https://www.amazon.fr/hz/wishlist/ls/3Q907YEHWMUJA?ref_=wl_share
 
 https://www.amazon.fr/hz/wishlist/ls/2GFPQAJ5TTWJU?ref_=wl_share
 
+# Blu-Ray:
+
+N'IMPORTE QUEL BLU RAY DE LA COLLECTION CRITERION!
+Liste complète:
+https://www.criterion.com/shop/browse
+Achetables en France ici:
+https://lemacguffin.fr/20-criterion-collection
+
 # LEGO:
 
 !!! Attention: cette liste contient les LEGOS que JE POSSEDE DEJA
