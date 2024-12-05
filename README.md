@@ -4,30 +4,27 @@
 # BOUQUINS:
 
 Libros en ESPANOL:
-https://docs.google.com/spreadsheets/d/1q0iYhrAnbRUlaG5bHIXa0c7JucbekvWCp-KryjT1Hzs/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Mbth-0AfHjACop9_k4jKywJSXYJ4IwkO8VNRHlLQWSU/edit?usp=sharing
 
 Books in ENGLISH:
-https://docs.google.com/spreadsheets/d/1-23OzopU7_NzFcVnS2lFb7o1mU-7ztxefwrwcp3Ri2Q/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1Afs8EsYFtDd_d7tMeOe6GAeOqfv3z_DyAy0wWWk4OK4/edit?usp=sharing
 
 Livres en FRANCAIS:
-https://docs.google.com/spreadsheets/d/1R2btDpldlmJhWTFNFrNuoEPBX3QtXSljmwZM_UEhUWc/edit?usp=sharing
-
-Livres en Espanol ou Anglais ou Francais:
-https://docs.google.com/spreadsheets/d/1gaBPzEascNj-1fJCtOomZtrA9pPERJ6kVMfkSJQfyB8/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1H-IwAZCadjRh3wxStTa9TpN7lps8xBplGxIRIf9vU2c/edit?usp=sharing
 
 Livres d'histoire:
-https://docs.google.com/spreadsheets/d/17XlCBqqINrPQX466tqEaOkm1QnRs8R2gTwule2IaBec/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1fhgiSeM-lIsy0mo9uXtJSXRf1iipXkPYwZspU_XWi3I/edit?usp=sharing
 
 # ROMANS GRAPHIQUES:
 
 Comics in ENGLISH:
-https://docs.google.com/spreadsheets/d/1bKYTb95xpW2n_c_VIj8Lb0UjglIZGYhzdoALtsAC5sw/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1DkzQE7QyblM7pv0pwJ35OsGJ1zbRzQH3Wpb3TuWHmyA/edit?usp=sharing
 
-Historietas en ESPANOL;
-https://docs.google.com/spreadsheets/d/131Tbjq8oFi58iHZ9V-tflsskgvzO66f_1iFBKbhZ1MI/edit?usp=sharing
+Historietas en ESPANOL:
+https://docs.google.com/spreadsheets/d/1OD3AM34zahemRPlK1qfSPV14OXha6uZ2lBiaV07xBeE/edit?usp=sharing
 
 BDs en FRANCAIS:
-https://docs.google.com/spreadsheets/d/1uThrmdTXbokGbSLwyfDRgVM4uAlrSN2UcB46BWJo0tg/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1-dEcEEgmXBT4TdIjiR7k_Y6V5Aq_IkRclclEu05d90w/edit?usp=sharing
 
 # JEUX DE PLATEAU:
 
