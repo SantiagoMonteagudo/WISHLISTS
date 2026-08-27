@@ -5,6 +5,9 @@
 
 Dans le classeur suivant, on peut trouver une feuille selon le type de livre recherché:
 
+https://docs.google.com/spreadsheets/d/14xEXRiIHhrZ8oiLFz_hb5vqjmGgPvSkbNNEePb__GEM/edit?usp=sharing
+
+
 <img width="1894" height="1044" alt="image" src="https://github.com/user-attachments/assets/23d897da-6f5b-4ddc-9811-70abe43d3013" />
 
 Pour les romans que je recherche en français, consulter la feuille: **Livres en français**
@@ -18,7 +21,6 @@ Pour les comics que je recherche en anglais, consulter la feuille: **English com
 
 Pour les livres d'histoire que je recherche en n'importe quelle des trois langues, consulter la feuille: **History**
 
-https://docs.google.com/spreadsheets/d/14xEXRiIHhrZ8oiLFz_hb5vqjmGgPvSkbNNEePb__GEM/edit?usp=sharing
 
 # JEUX DE PLATEAU:
 
