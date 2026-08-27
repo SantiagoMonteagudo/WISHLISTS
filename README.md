@@ -1,30 +1,24 @@
 ## WISHLISTS de SANTIAGO M
 
 
-# BOUQUINS:
+# Littérature (romans, livres d'histoire ou romans graphiques):
 
-Libros en ESPANOL:
-https://docs.google.com/spreadsheets/d/1Mbth-0AfHjACop9_k4jKywJSXYJ4IwkO8VNRHlLQWSU/edit?usp=sharing
+Dans le classeur suivant, on peut trouver une feuille selon le type de livre recherché:
 
-Books in ENGLISH:
-https://docs.google.com/spreadsheets/d/1Afs8EsYFtDd_d7tMeOe6GAeOqfv3z_DyAy0wWWk4OK4/edit?usp=sharing
+<img width="1894" height="1044" alt="image" src="https://github.com/user-attachments/assets/23d897da-6f5b-4ddc-9811-70abe43d3013" />
 
-Livres en FRANCAIS:
-https://docs.google.com/spreadsheets/d/1H-IwAZCadjRh3wxStTa9TpN7lps8xBplGxIRIf9vU2c/edit?usp=sharing
+Pour les romans que je recherche en français, consulter la feuille: **Livres en français**
+Pour les Bandes Dessinées que je recherche en français, consulter la feuille: **BDs en français**
 
-Livres d'histoire:
-https://docs.google.com/spreadsheets/d/1fhgiSeM-lIsy0mo9uXtJSXRf1iipXkPYwZspU_XWi3I/edit?usp=sharing
+Pour les romans que je recherche en espagnol, consulter la feuille: **Libros en espanol**
+Pour les BDs que je recherche en espagnol, consulter la feuille: **Historietas en espanol**
 
-# ROMANS GRAPHIQUES:
+Pour les romans que je recherche en anglais, consulter la feuille: **English books**
+Pour les comics que je recherche en anglais, consulter la feuille: **English comics**
 
-Comics in ENGLISH:
-https://docs.google.com/spreadsheets/d/1DkzQE7QyblM7pv0pwJ35OsGJ1zbRzQH3Wpb3TuWHmyA/edit?usp=sharing
+Pour les livres d'histoire que je recherche en n'importe quelle des trois langues, consulter la feuille: **History**
 
-Historietas en ESPANOL:
-https://docs.google.com/spreadsheets/d/1OD3AM34zahemRPlK1qfSPV14OXha6uZ2lBiaV07xBeE/edit?usp=sharing
-
-BDs en FRANCAIS:
-https://docs.google.com/spreadsheets/d/1-dEcEEgmXBT4TdIjiR7k_Y6V5Aq_IkRclclEu05d90w/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/14xEXRiIHhrZ8oiLFz_hb5vqjmGgPvSkbNNEePb__GEM/edit?usp=sharing
 
 # JEUX DE PLATEAU:
 
@@ -46,7 +40,7 @@ https://lemacguffin.fr/20-criterion-collection
 
 !!! Attention: cette liste contient les LEGOS que JE POSSEDE DEJA
 
-Par conséquent, on peut considérer que je recherche n'importe quel LEGO Star Wars, Lord of the Rings, Indiana Jones, Marvel, DC, City ou Ideas qui NE SOIT PAS dans la liste suivante:
+Par conséquent, on peut considérer que je recherche n'importe quel LEGO **Star Wars**, **Lord of the Rings**, **Indiana Jones, Marvel**, **DC**, **City** ou **Ideas** qui _**NE SOIT PAS**_ dans la liste suivante:
 https://brickset.com/sets/ownedby-BillPlaymo
 
 # JEUX VIDEOS :
