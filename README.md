@@ -57,6 +57,8 @@ Most wanted:
 - Tokyo Mirage Sessions # Encore
 - Super Mario Galaxy 2
 - Fire Emblem Engage
+- Pikmin 1 + 2
+- Pikmin 3
 - Paper Mario : Thousand Year Door
 - Metroid Prime Remastered
 - Metroid Dread
